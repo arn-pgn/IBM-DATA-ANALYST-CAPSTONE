@@ -33,7 +33,6 @@ For task 5, we will employ Cognos/Google Looker Studio to create interactive das
 ### Task 6
 
 For the final task, we will use our storytelling skills to provide a narrative and present the findings of our analysis.
-Full presentation link: https://www.canva.com/design/DAGCO32O1hs/i6ag-UXsZqQ8_E5A-mI9bA/edit?utm_content=DAGCO32O1hs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Table of Contents
 
