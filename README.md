@@ -4,7 +4,7 @@
 
 # Data Visualization with Python
 
-This is the Capstone Project for Course 9, _IBM Data Analyst Capstone Project_. Part of IBM's Data Analyst Professional Certificate from Coursera. Available here: https://www.coursera.org/programs/jda20232t1-z1hse/professional-certificates/ibm-data-analyst?collectionId=Wxyxq
+This is the Capstone Project for Course 9, _IBM Data Analyst Capstone Project_. Part of IBM's Data Analyst Professional Certificate from Coursera. 
 
 We will take on the role of a Data Analyst with a global IT and Business services firm. In this role, we will be analyzing several datasets to help identify trends for emerging technologies. We have recently been hired as a Data Analyst by a global IT and business consulting services firm that is known for its expertise in IT solutions and its team of highly experienced IT consultants. To keep pace with changing technologies and remain competitive, our organization regularly analyzes data to help identify future skill requirements.
 
